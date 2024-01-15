@@ -1,0 +1,10 @@
+#start-div {
+  background-color: aquamarine;
+  height: 680px;
+  display: flex;
+}
+
+#start-text {
+  color: darkcyan;
+  margin-top: 40px;
+}
